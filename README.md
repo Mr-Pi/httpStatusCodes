@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Mr-Pi/httpStatusCodes.png?branch=master)](https://travis-ci.org/Mr-Pi/httpStatusCodes)
 httpStatusCodes
 ===============
 
