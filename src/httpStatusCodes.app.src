@@ -1,12 +1,11 @@
 {application, httpStatusCodes,
  [
-  {description, ""},
-  {vsn, "1"},
+  {description, "Erlang http status code library"},
+  {vsn, "2"},
   {registered, []},
   {applications, [
                   kernel,
                   stdlib
                  ]},
-  {mod, { httpStatusCodes_app, []}},
   {env, []}
  ]}.
