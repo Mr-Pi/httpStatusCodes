@@ -1,0 +1,4 @@
+%% encoding: UTF-8
+{application,httpStatusCodes}.
+{packages,[]}.
+{modules,[httpStatusCodes,httpStatusCodes_tests]}.

@@ -41,11 +41,7 @@ getReference(Code) ->
 	{Code, _Description, Reference} = getHttpStatus(Code),
 	Reference.
 
-%%%===================================================================
-%%% Internal functions
-%%%===================================================================
 
-%% @private
 %% @doc
 %% return a tuple, which contains the httpStatusCode(),
 %% the httpStatusDescription() and the httpStatusReference()
